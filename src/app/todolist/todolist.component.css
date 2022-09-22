@@ -1,0 +1,65 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.color{
+    color: red;
+}
+
+input{
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.todoshow{
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+li{
+    font-size: xx-large;
+}
+.xltxt{
+    font-size: x-large;
+}
+
+.but{
+    font-size: x-large;
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+
+.box1{
+    background-color: rgb(247, 242, 170);
+    padding: 50px;
+    border-style:inset;
+    border-radius: 20px;
+    border-width: 0px;
+    border-color: beige;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+}
+
+.box2{
+    background-color: rgb(247, 242, 170);
+    padding: 50px;
+    border-style:inset;
+    border-radius: 20px;
+    border-width: 0px;
+    border-color: beige;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+}

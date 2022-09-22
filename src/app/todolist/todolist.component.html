@@ -1,0 +1,18 @@
+<br><br>
+<div class="box1">
+  <h1 style="font-size: xx-large;">Todo List</h1>
+  <input type="text" [(ngModel)]="todoItem">
+  <br><br>
+  <button (click)="todoAdd()" class="but">Add to Todo List</button>
+  <button (click)="todoReset()" class="but">Reset Todo</button>
+  <br>
+  <div class="todoshow">
+    <li *ngFor="let myTodoItem of todoList">{{myTodoItem}}</li>
+  </div>
+
+<br>
+</div>
+
+<div class="box1" style="font-size: x-large;">
+  <i> © All Right Reserverd <b style="font-size: xX-large;">xD</b> ADISHARMA</i>
+</div>  
